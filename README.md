@@ -11,6 +11,6 @@ Run this by cloning this repo, or following this bash:
 
 ```
 Git clone https://github.com/hugoTheVoidBoy/CPU_Threading
-Cd “CPU_Threading”
+Cd CPU_Threading
 Python CPU_speed_during_ROS2_dev_test.py
 ```

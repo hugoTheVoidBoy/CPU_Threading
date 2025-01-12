@@ -10,7 +10,7 @@ I used psutil library to get the CPU information and used pandas library to conv
 Run this by cloning this repo, or following this bash:
 bash
 ```
-Git clone 
+Git clone https://github.com/hugoTheVoidBoy/CPU_Threading
 Cd “<LOCATION_OF_THE_FILE”
 Python CPU_speed_during_ROS2_dev_test.py
 ```

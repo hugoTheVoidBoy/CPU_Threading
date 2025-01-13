@@ -1,7 +1,7 @@
 # CPU_Threading
  Log CPU performance
 
-This Python file is to run in the background to log the CPU usage (%) during my activities on my laptop every 10 seconds.
+This program is to run in the background to log the CPU usage (%) during my activities on my laptop every 10 seconds. Requires your computer to have Python and Git on your PC.
 
 This helps me practice performance load testing.
 
